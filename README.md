@@ -1,1 +1,2 @@
-# js-animation
+# Text animation
+Animation using javascript
